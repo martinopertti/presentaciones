@@ -97,7 +97,9 @@ use_extra_styles(
 - Political content online is disproportionately created by users with more extreme views. Does exposure to this content distort perceptions of what the other side believes?
 
 ---
-## Factual Corrections are Effective
+## Misperceptions and Factual Corrections
+
+--
 
 <style>
   'h2 {
@@ -113,7 +115,7 @@ use_extra_styles(
 </div>
 
 ---
-## Factual Corrections are Effective
+## Misperceptions and Factual Corrections
 
 <div style="text-align: center;">
 <img src="images/miss_2.png" alt="Centered Image" width="100%"/>
@@ -165,15 +167,15 @@ use_extra_styles(
 
 --
 
-- .verysmall-text[**Adjacent Beliefs:**] 
-  - .verysmall-text[How much of a role, if at all, does the President play in determining inflation?]
-  - .verysmall-text[How important, if at all, for assessing the overall state of the economy]
-  - .verysmall-text[How would you rate the inflation rate during Donald Trump's first administration (2016–2020)?]
-
---
-
 - .verysmall-text[**Downstream attitudes:**] 
   - .verysmall-text[How would you rate the overall state of the nation's economy during Biden's administration?]
   - .verysmall-text[To what extent do you approve or disapprove of the way Joe Biden handled the economy during his administration?]
+
+--
+- .verysmall-text[**Adjacent Beliefs:**] 
+  - .verysmall-text[How much of a role, if at all, does the President play in determining inflation?]
+  - .verysmall-text[How important, if at all, is inflation for assessing the overall state of the economy]
+  - .verysmall-text[How would you rate the inflation rate during Donald Trump's first administration (2016–2020)?]
+
 
 
