@@ -2,7 +2,7 @@
 title: "Same Facts, Different Meanings. <br><span style='font-size:60%'>Factual Information,
 Interpretation, and the Limits of Attitude Change.</span>"
 subtitle: "Midwest Political Science Association Conference"
-author: "Martín Opertti"
+author: "Martín Opertti (Duke University)"
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 output:
   xaringan::moon_reader:
