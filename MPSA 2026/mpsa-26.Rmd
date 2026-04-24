@@ -114,16 +114,9 @@ use_extra_styles(
 
 --
 
-  - Corrections may target beliefs that are peripheral to the attitudes they aim to change <span class="cita">(Velez et al., 2025)</span>
+  - The political meaning of a fact depends on a surrounding web of .highlight[adjacent beliefs]: .highlight[causes], .highlight[context], .highlight[significance], and .highlight[intent], that shape how it is .highlight[interpreted] and .highlight[integrated] into political judgments <span class="cita">(Gaines et al., 2007)</span>.
 
 --
-
-  - Alternative perspective: The political meaning of a fact depends on a surrounding web of .highlight[adjacent beliefs]: .highlight[causes], .highlight[context], .highlight[significance], and .highlight[intent], that shape how it is .highlight[interpreted] and .highlight[integrated] into political judgments <span class="cita">(Gaines et al., 2007)</span>.
-
----
-
-## Same Facts, Different Meanings
-
 
 <div style="font-size: 0.9em; margin-top: 20px; margin-left: 40px;">
 
@@ -151,6 +144,11 @@ Claim is false &nbsp; ⟶ &nbsp; .highlight[Was speaking figuratively] ✕ Candi
 </div>
 
 --
+
+---
+
+## Same Facts, Different Meanings
+
 
 - Factual information might trigger .highlight[congenial updating of these adjacent beliefs], possibly limiting attitude change
 
@@ -196,39 +194,6 @@ class: inverse, center, middle
 
 ---
 
-## Study 1 results (only uncongenial)
-
-<div style="text-align: center;">
-<img src="images/empty_plot.png" alt="Centered Image" width="100%"/>
-</div>
-
----
-
-## Study 1 results (only uncongenial)
-
-<div style="text-align: center;">
-<img src="images/s1-focal-only.png" alt="Centered Image" width="100%"/>
-</div>
-
----
-
-## Study 1 results (only uncongenial)
-
-<div style="text-align: center;">
-<img src="images/s1-both-only.png" alt="Centered Image" width="100%"/>
-</div>
-
----
-
-## Study 1 results (only uncongenial)
-
-<div style="text-align: center;">
-<img src="images/s1-main-figure.png" alt="Centered Image" width="100%"/>
-</div>
-
-
----
-
 ## Study 2 results (only uncongenial)
 
 <div style="text-align: center;">
@@ -257,15 +222,6 @@ class: inverse, center, middle
 
 <div style="text-align: center;">
 <img src="images/s2-main-figure.png" alt="Centered Image" width="100%"/>
-</div>
-
-
----
-
-## Study 2 results (only congenial)
-
-<div style="text-align: center;">
-<img src="images/s2-congenial-main-figure.png" alt="Centered Image" width="100%"/>
 </div>
 
 
@@ -400,3 +356,46 @@ class: inverse, center, middle
 --
 
 **H3B - Adjacent Beliefs (congenial):** Congenial corrections will trigger .highlight[no adjustment] or adjustment in the .highlight[opposite] direction (predisposition-reinforcing).
+
+
+---
+
+## Study 1 results (only uncongenial)
+
+<div style="text-align: center;">
+<img src="images/empty_plot.png" alt="Centered Image" width="100%"/>
+</div>
+
+---
+
+## Study 1 results (only uncongenial)
+
+<div style="text-align: center;">
+<img src="images/s1-focal-only.png" alt="Centered Image" width="100%"/>
+</div>
+
+---
+
+## Study 1 results (only uncongenial)
+
+<div style="text-align: center;">
+<img src="images/s1-both-only.png" alt="Centered Image" width="100%"/>
+</div>
+
+---
+
+## Study 1 results (only uncongenial)
+
+<div style="text-align: center;">
+<img src="images/s1-main-figure.png" alt="Centered Image" width="100%"/>
+</div>
+
+---
+
+## Study 2 results (only congenial)
+
+<div style="text-align: center;">
+<img src="images/s2-congenial-main-figure.png" alt="Centered Image" width="100%"/>
+</div>
+
+
