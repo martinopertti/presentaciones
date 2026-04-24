@@ -240,7 +240,7 @@ class: inverse, center, middle
 
 --
 
-- Factual information shifts beliefs toward accuracy regardless of priors, but this does .highlight[not] translate (or only very modestly) into downstream attitudes.
+- Factual information shifts beliefs toward accuracy regardless of priors, but this does .highlight[not] translate (or only very modestly) into downstream attitudes, even for more proximate outcomes.
 
 --
 
@@ -260,12 +260,12 @@ class: inverse, center, middle
 
 --
 
-- Motivated reasoning or Bayesian updating with strong priors? I'm agnostic. (1) The distinction may be less clear than it appears. (2) In either case, parallel updating on factual accuracy coexists with .highlight[divergent updating] on the political meaning of facts
+- Motivated reasoning or Bayesian updating with strong priors? I'm agnostic. (1) The distinction may be less clear than it appears. (2) The coexistence of parallel updating with divergent interpretation matters for voter responsiveness regardless of the underlying cognitive model.
 
 
 --
 
-- Overall the results suggest that (1) .highlight[measuring adjacent beliefs] provides a more complete account of what corrections actually change and it's .highlight[political meaning] and (2) .highlight[warrant some caution] about the optimism in voter responsiveness to exposure to factual corrections.
+- Overall the results suggest that (1) .highlight[measuring adjacent beliefs] provides a more complete account of what corrections actually change and it's .highlight[political meaning] and (2) .highlight[warrant some caution] about the optimism in voter responsiveness to information.
 
 ---
 
