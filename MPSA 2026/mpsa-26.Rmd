@@ -260,12 +260,9 @@ class: inverse, center, middle
 
 --
 
-- Motivated reasoning or Bayesian updating with strong priors? I'm agnostic. (1) The distinction may be less clear than it appears. (2) The coexistence of parallel updating with divergent interpretation matters for voter responsiveness regardless of the underlying cognitive model.
+- Motivated reasoning or Bayesian updating with strong priors? I'm agnostic. (1) The distinction may be less clear than it appears. (2) The coexistence of parallel updating with .highlight[divergent interpretation] matters for voter responsiveness regardless of the underlying cognitive model.
 
 
---
-
-- Overall the results suggest that (1) .highlight[measuring adjacent beliefs] provides a more complete account of what corrections actually change and it's .highlight[political meaning] and (2) .highlight[warrant some caution] about the optimism in voter responsiveness to information.
 
 ---
 
