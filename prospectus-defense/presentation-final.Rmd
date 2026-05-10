@@ -1,0 +1,212 @@
+---
+title: "Dissertation Prospectus Defense"
+subtitle: "Duke University"
+author: "Martín Opertti"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+output:
+  xaringan::moon_reader:
+    css: ["xaringan-themer.css", "estilo.css"]
+    lib_dir: libs
+    nature:
+      slideNumber: false
+      highlightStyle: github
+      df_print: kable  
+      smaller: true
+      widescreen: true
+      highlightLines: true
+---
+
+```{r setup, include=FALSE}
+library(xaringanthemer)
+library(kableExtra)
+library(xaringan)
+library(xaringanExtra)
+
+style_duo_accent(primary_color = "#001A57",
+                 secondary_color = "#708090",
+                 text_font_family = "Droid Serif",
+                 text_font_url = "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic",
+                 header_font_google = google_font("Yanone Kaffeesatz"),
+                 text_slide_number_color = "#000000")
+knitr::opts_chunk$set(echo = FALSE)
+options("kableExtra.html.bsTable" = T)
+
+htmltools::tagList(
+  xaringanExtra::use_clipboard(
+    button_text = "<i class=\"fa fa-clipboard\"></i>",
+    success_text = "<i class=\"fa fa-check\" style=\"color: #90BE6D\"></i>",
+    error_text = "<i class=\"fa fa-times-circle\" style=\"color: #F94144\"></i>"
+  ),
+  rmarkdown::html_dependency_font_awesome()
+)
+use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+use_scribble()
+use_extra_styles(
+  hover_code_line = TRUE,         
+  mute_unhighlighted_code = TRUE
+  )  
+
+```  
+
+```{css, echo=FALSE}
+.remark-slide-number {
+  display: none !important;
+}
+
+.incremental li {
+  line-height: 1.0;
+  margin-bottom: 0;
+}
+
+.remark-slide-content {
+  padding-top: 1em;
+}
+
+.remark-slide-content p {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+.remark-slide-content ul {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+.remark-slide-content li {
+  margin-top: 0em;
+  margin-bottom: 0.1em;
+}
+
+.remark-slide-content li ul {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.remark-slide-content div > ul {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.remark-slide-content div > p {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+.remark-slide-content .remark-visible {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.remark-slide-content > div {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.remark-slide-content ul {
+  padding-left: 1.2em;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.remark-slide-content li {
+  line-height: 1.15;
+  margin-top: 0 !important;
+  margin-bottom: 0.1em !important;
+}
+
+.remark-slide-content p {
+  margin-top: 0.1em !important;
+  margin-bottom: 0.1em !important;
+}
+.verysmall-text {
+  padding-left: 1.2em;
+  text-indent: -0.8em;
+}
+```
+
+<style>
+  h2 {
+    margin-bottom: 0;
+  }
+  h3 {
+    margin-bottom: 0;
+  }
+  img {
+    margin-top: 15px;
+  }
+</style>
+
+.small-text[**The Puzzle:**<br>]
+--
+.verysmall-text[• Partisan gaps and misperceptions in factual beliefs have drawn enormous scholarly attention.<br>]
+--
+.verysmall-text[• Yet recent work suggests that they may be less concerning than initially feared: (i) partisan gaps **shrink under incentives** and (ii) misperceptions are **weakly held and responsive to corrections**.<br>]
+--
+.highlight[.verysmall-text[• So, should we dismiss these reported beliefs as inconsequential? Or do they matter in ways the literature hasn't looked for?]<br><br>]
+--
+.small-text[**The Argument:**<br>]
+--
+.verysmall-text[• Epistemic properties (e.g., stability) alone don't capture whether and how these beliefs matter.<br>]
+--
+.verysmall-text[• These beliefs are .highlight[reflective] *(context-dependent, compartmentalized)* and serve .highlight[non-epistemic functions] *(justifications for political commitments)*<br>]
+--
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Integrates large literature on evolutionary psychology and philosophy of mind*<br>]
+--
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Theory generates testable expectations even where properties can't be tested directly*<br><br>]
+--
+.small-text[**The Empirical Tests:**<br>]
+--
+.verysmall-text[• **Do beliefs vary across elicitation contexts** (political survey / incentivized / consumer survey)? **Which beliefs best correspond to which attitudes?** *(Paper 1, Ch. 1)*<br>]
+--
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Speaks to: .highlight[congenial inference] vs. cheerleading; beliefs as .highlight[sincere but context-dependent/compartmentalized]*<br>]
+--
+.verysmall-text[• **Do factual claims arise spontaneously when people justify their political attitudes? How does the anticipation of social scrutiny affect?** *(Paper 1, Ch. 2)*<br>]
+--
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Speaks to: survey-measured beliefs as .highlight[cheap talk] or reflections of .highlight[real-world political reasoning]; which factual claims can be credibly argued shaping .highlight[political discourse]*<br>]
+--
+.verysmall-text[• **Do people reinterpret corrected facts in predisposition-consistent ways?** *(Paper 2, Ch. 3)*<br>]
+--
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Speaks to: disconnect between attitudes and beliefs: why corrections that work epistemically may not work politically*<br>]
+
+
+---
+
+### Tentative Plan
+
+--
+
+- .highlight[.small-text[Factual Corrections and Interpretation Paper:]]
+
+--
+
+  - .small-text[Finish incorporating feedback for the factual correction and interpretation paper.]
+
+--
+
+  - .small-text[Send out for review this summer]
+
+--
+
+- .highlight[.small-text[What Factual Beliefs Are and What They Do Paper:]]
+
+--
+
+  - .small-text[This summer: apply for funding (CES module, APSA Dissertation Grant, other alternatives) while working on design specifics (open-ended text analysis, AI integration to Qualtrics)]
+
+--
+
+  - .small-text[Target fielding: 2026/27 academic year]
+  
+
+
+
+
+
+
+
+
+
+
+
