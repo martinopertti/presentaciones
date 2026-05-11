@@ -148,19 +148,19 @@ use_extra_styles(
 --
 .small-text[**The Argument:**<br>]
 --
-.verysmall-text[• Epistemic properties (e.g., stability) alone don't capture whether and how these beliefs matter.<br>]
+.verysmall-text[• There is more to learn about the nature and function of these beliefs.<br>]
 --
 .verysmall-text[• These beliefs are .highlight[reflective] *(context-dependent, compartmentalized)* and serve .highlight[non-epistemic functions] *(justifications for political commitments)*<br>]
 --
-.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Integrates large literature on evolutionary psychology and philosophy of mind*<br>]
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Integrates large literature on evolutionary psychology and philosophy (Mercier, Williams, Haidt)*<br>]
 --
 .verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Theory generates testable expectations even where properties can't be tested directly*<br><br>]
 --
 .small-text[**The Empirical Tests:**<br>]
 --
-.verysmall-text[• **Do beliefs vary across elicitation contexts** (political survey / incentivized / consumer survey)? **Which beliefs best correspond to which attitudes?** *(Paper 1, Ch. 1)*<br>]
+.verysmall-text[• **Do beliefs vary across elicitation contexts** *(political survey / incentivized / consumer survey)*? **Which beliefs best correspond to which attitudes?** *(Paper 1, Ch. 1)*<br>]
 --
-.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Speaks to: .highlight[congenial inference] vs. cheerleading; beliefs as .highlight[sincere but context-dependent/compartmentalized]*<br>]
+.verysmall-text[&nbsp;&nbsp;&nbsp;&nbsp;◦ *Speaks to: .highlight[congenial inference] vs. cheerleading; beliefs as .highlight[sincere but context-dependent and compartmentalized]*<br>]
 --
 .verysmall-text[• **Do factual claims arise spontaneously when people justify their political attitudes? How does the anticipation of social scrutiny affect?** *(Paper 1, Ch. 2)*<br>]
 --
@@ -199,8 +199,17 @@ use_extra_styles(
 
   - .small-text[Target fielding: 2026/27 academic year]
   
+--
 
+- .highlight[.small-text[Open Questions]]
 
+--
+
+  - .small-text[Additional empirical work: expressive responding and recursive question on gas prices, empirical component in Latin America, use of observational data.]
+  
+--
+
+  - .small-text[Complete the committee]
 
 
 
