@@ -385,7 +385,7 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 **▸ .highlight[All critiques] reduce credibility regardless of who delivers them.**
 
 <div style="text-align: center;">
-<img src="images/pres_fig_h3h5_critiques.png" width="90%"/>
+<img src="images/pres_fig_h3h5_critiques.png" width="80%"/>
 </div>
 
 ---
@@ -402,6 +402,7 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 ---
 
 ## Discussion
+
 
 - .highlight[Expertise still matters!]
 
@@ -421,17 +422,6 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 
 --
   - All critiques decrease credibility, only expert endorsements increase it
-
---
-
-- .highlight[Alignment with prior beliefs shapes perceived credibility]
-
---
-  - Prior beliefs effect is substantively large
-
---
-  - Survey methodology effect is substantively small
-
 
 ---
 
