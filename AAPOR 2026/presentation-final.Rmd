@@ -403,6 +403,7 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 
 ## Discussion
 
+--
 
 - .highlight[Expertise still matters!]
 
@@ -414,7 +415,9 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
   - Popularity and engagement have limited impact
 
 --
-  - Admittedly, we are holding constant (lack of) familiarity
+  - Prior belief alignment remains the strongest predictor overall
+
+
 
 --
 
@@ -425,7 +428,20 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 
 --
   - Disbelief in true information may be as important as misinformation spread <span class="cita">(e.g., Altay, 2025)</span>
-  
+
+--
+
+- .highlight[Some limitations]
+
+--
+  - Popularity cues were impersonal
+
+--
+  - U.S. non-probability samples; one information type (polling statistics) 
+
+--
+  - Ecological validity: static stimuli and profile visibility
+
 
 ---
 
