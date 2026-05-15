@@ -423,6 +423,10 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 --
   - All critiques decrease credibility, only expert endorsements increase it
 
+--
+  - Disbelief in true information may be as important as misinformation spread <span class="cita">(e.g., Altay, 2025)</span>
+  
+
 ---
 
 class: inverse, center, middle
