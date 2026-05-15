@@ -352,52 +352,67 @@ Social media posts are not evaluated in isolation  <span class="cita">(e.g., Dou
 
 ## Source Credibility Results
 
-**▸ .highlight[Expertise] increases perceived user credibility; popularity has limited effects**]
+<div style="text-align: center;">
+<img src="images/Figure 1_empty.png" width="85%"/>
+</div>
+
+---
+
+## Source Credibility Results
 
 <div style="text-align: center;">
 <img src="images/source_credibility.png" width="85%"/>
+</div>
+
+**▸ .highlight[Expertise] increases perceived user credibility; popularity has limited effects**
+
+---
+
+## Quote Type Results
+
+<div style="text-align: center;">
+<img src="images/pres_fig_h2_empty.png" width="90%"/>
 </div>
 
 ---
 
 ## Quote Type Results
 
-**▸.highlight[Commentary matters!] Critiques hurt credibility while endorsements rarely increase it.**
-
 <div style="text-align: center;">
 <img src="images/pres_fig_h2.png" width="90%"/>
 </div>
+
+**▸.highlight[Commentary matters!] Critiques hurt credibility while endorsements rarely increase it.**
 
 ---
 
 ## Expertise vs. Popularity Results
 
-**▸ Only .highlight[expert endorsements] increase credibility.**
-
 <div style="text-align: center;">
 <img src="images/pres_fig_h3h5_endorsements.png" width="90%"/>
 </div>
+
+**▸ Only .highlight[expert endorsements] increase credibility.**
 
 ---
 
 ## Critiques-Specific Results
 
-**▸ .highlight[All critiques] reduce credibility regardless of who delivers them.**
-
 <div style="text-align: center;">
 <img src="images/pres_fig_h3h5_critiques.png" width="80%"/>
 </div>
+
+**▸ .highlight[All critiques] reduce credibility regardless of who delivers them.**
 
 ---
 
 ## Information Content Results
 
-**▸ Belief alignment increases credibility; survey methodology, only modestly**
-
-
 <div style="text-align: center;">
-<img src="images/info_content.png" width="70%"/>
+<img src="images/info_content.png" width="65%"/>
 </div>
+
+**▸ Belief alignment increases credibility; survey methodology only modestly**
 
 ---
 
